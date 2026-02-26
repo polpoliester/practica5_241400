@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">practica5_241400</string>
+    <string name="welcome">Welcome to Popocorn Factory, home of the best series and movies.</string>
+    <string name="getMeIn">GET ME IN!</string>
+</resources>
