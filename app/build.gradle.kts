@@ -4,13 +4,13 @@ plugins {
 }
 
 android {
-    namespace = "mx.itson.practica5_241400"
+    namespace = "mx.itson.practica5"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "mx.itson.practica5_241400"
+        applicationId = "mx.itson.practica5"
         minSdk = 24
         targetSdk = 36
         versionCode = 1

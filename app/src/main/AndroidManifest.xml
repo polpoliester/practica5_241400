@@ -10,7 +10,10 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Practica5_241400">
+        android:theme="@style/Theme.Practica5">
+        <activity
+            android:name=".Catalogo"
+            android:exported="false" />
         <activity
             android:name=".detalle_pelicula"
             android:exported="false" />

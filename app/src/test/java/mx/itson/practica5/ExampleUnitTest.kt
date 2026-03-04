@@ -1,4 +1,4 @@
-package mx.itson.practica5_241400
+package mx.itson.practica5
 
 import org.junit.Test
 
